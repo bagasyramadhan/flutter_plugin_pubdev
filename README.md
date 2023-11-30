@@ -1,6 +1,7 @@
 # Nama : Muhammad Bagas Ramadhan
 # Kelas : TI - 3G
 # Nim : 2141720120
+
 # Praktikum Menerapkan Plugin di Project Flutter
 
 ## Langkah 1: Buat Project Baru
@@ -54,7 +55,7 @@ JAWAB :
 
 - Kotak hijau (Container) dengan teks biasa di dalamnya (menggunakan widget Text) tanpa ada penyesuaian khusus.
 
-Jadi, yang membedakan adalah tampilan dan gaya teks yang digunakan. Kotak pertama memakai widget buatan sendiri buat menampilkan teks dengan gaya spesifik, sedangkan kotak kedua hanya menggunakan teks biasa tanpa ada gaya tambahan.
+Jadi, yang membedakan adalah tampilan dan gaya teks yang digunakan. Kotak pertama memakai widget buatan sendiri untuk menampilkan teks dengan gaya spesifik, sedangkan kotak kedua hanya menggunakan teks biasa tanpa ada gaya tambahan.
 
 5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini !
 JAWAB: Parameter-parameter digunakan untuk mengkonfigurasikan dan menyesuaikan cara kerja widget tersebut. Dapat berisi parameter untuk mengatur teks yang muncul, gaya teks, batasan jumlah baris, overflow, dan lain sebagainya.
